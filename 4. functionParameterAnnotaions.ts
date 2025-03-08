@@ -21,3 +21,19 @@ let lifeStatus = (status: boolean) => {
   console.log(`Married : ${status}`);
 };
 lifeStatus(true);
+
+//You can set multiple parameter annotations too.
+function printAnimal(
+  animalOne: string,
+  animalTwo: string,
+  animalThree: string
+) {
+  console.log(`${animalOne} & ${animalTwo} & ${animalThree}`);
+}
+printAnimal(`cat`, `rat`, `bat`);
+
+//You can do it with the arrow function too...
+let printNames = (personOne: string, personTwo: string, personThree: string) =>
+  console.log(`${personOne},${personTwo},${personThree}`);
+
+printNames("Dean", `Sam`, "John");
