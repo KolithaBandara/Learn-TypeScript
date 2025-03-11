@@ -40,3 +40,36 @@ Don't do these steps one by one. I explained it to understand.
          alt="Inferring Errors">
     <figcaption>Error sample</figcaption>
 </figure>
+
+## 3. Any Type
+
+- 'any' type helps you to convert your annotation into many types.  
+  Like this;
+
+<figure>
+    <img src="assets/img/3. Any Type .png"
+         alt="Inferring Errors">
+    <!-- <figcaption>Error sample</figcaption> -->
+</figure>
+
+- You can assign a number value to a string value. You can assign a string value to a number value.
+
+- You can assign any separate types using this.
+
+## 4. Function Parameter Annotations
+
+- I know you know to create a function in JavaScript.
+
+- In TypeScript it's same here too. Additional thing is you have to mention a specific data type like this;
+
+<figure>
+    <img src="assets/img/4. Function Annotations .png"
+         alt="">
+</figure>
+
+- Not with a single parameter. You can do this withing multiple parameters. Like this;
+
+<figure>
+    <img src="assets/img/4.Multiple parameter functon annotations.png"
+         alt="">
+</figure>
