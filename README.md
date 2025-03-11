@@ -1,4 +1,4 @@
-# TypeScript
+# <center>TypeScript</center>
 
 ## 1. Annotations
 
