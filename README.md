@@ -12,7 +12,7 @@
 
 > <center> Ex:- <font color="yellow"> <font color=lightGreen>let</font> firstName = <font color="orange">"Johnathan"</font>;</font> </center>
 
-- End of the process you have to put the specify data type like this;
+- End of the process you have to put the specific data type like this;
 
 > <center> Ex:- <font color="yellow"> <font color=lightGreen>let </font>
 > firstName : <font color="pink">string</font> =<font color="orange"> "Johnathan"</font>;</font> </center>
